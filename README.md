@@ -1,4 +1,4 @@
-# iot-demos
+# Demos for ECE 592 IoT: A Primer 
 Demo description and instructions for the course at NC State University - ECE 592 Internet of Things: A Primer
 
 ## Feedback Model Demo
